@@ -11,12 +11,6 @@ Upload documents to automatically generate structured meeting agendas with timel
 1. Run the application using `npm start`.
 2. Open your browser and navigate to `http://localhost:3000`.
 
-## Features
-- User authentication
-- Task creation
-- Task management (edit, delete)
-- Drag and drop functionality
-
 ## Technologies Used
 - React
 - Gemini API
