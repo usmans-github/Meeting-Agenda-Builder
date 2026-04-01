@@ -1,0 +1,5 @@
+{
+  "name": "Meeting Agenda Builder",
+  "description": "Upload documents to automatically generate structured meeting agendas with timelines and stakeholder analysis.",
+  "requestFramePermissions": []
+}
